@@ -1,7 +1,6 @@
-#Python Sql connection Project(I.P)
+#Python Sql connection Project
 #Project on TRAI
 #By Mridul Singh
-#12th 
 import os
 import platform as pltf
 import mysql.connector as sqltor
